@@ -1,0 +1,9 @@
+text,predicted_label,score,model_version,hf_model_id,alias_used
+I genuinely enjoyed using this product every single day.,1,0.9997,3,distilbert-base-uncased-finetuned-sst-2-english,champion
+The staff were rude and completely unhelpful when I needed assistance.,0,0.9987,3,distilbert-base-uncased-finetuned-sst-2-english,champion
+"Such an incredible performance, the audience gave a standing ovation.",1,0.9999,3,distilbert-base-uncased-finetuned-sst-2-english,champion
+The website kept crashing and I could not complete my order at all.,0,0.9996,3,distilbert-base-uncased-finetuned-sst-2-english,champion
+"Really impressive build quality, feels premium and durable.",1,0.9999,3,distilbert-base-uncased-finetuned-sst-2-english,champion
+Waited over an hour and the food was still served cold and bland.,0,0.9997,3,distilbert-base-uncased-finetuned-sst-2-english,champion
+The tutorial was easy to follow and I learned a lot from it.,1,0.9871,3,distilbert-base-uncased-finetuned-sst-2-english,champion
+Absolutely the worst purchase decision I have ever made in my life.,0,0.9996,3,distilbert-base-uncased-finetuned-sst-2-english,champion

@@ -1,0 +1,9 @@
+{
+  "run_a_id": "9ba353a0cf0346d1b0a635690f7e0474",
+  "run_b_id": "327e8ac249304d2aab2e552f511e6f4f",
+  "winner": "A",
+  "model_a_id": "distilbert-base-uncased-finetuned-sst-2-english",
+  "model_b_id": "siebert/sentiment-roberta-large-english",
+  "model_a_nick": "distilbert-sst2",
+  "model_b_nick": "roberta-large"
+}

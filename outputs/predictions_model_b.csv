@@ -1,0 +1,51 @@
+text,reference,prediction,score,correct
+The movie was absolutely wonderful and I loved every moment of it.,1,1,0.9989,1
+This is the best restaurant I have ever visited in my entire life.,1,1,0.9988,1
+"I am so happy with the service, it exceeded all my expectations.",1,1,0.9989,1
+The product quality is outstanding and arrived perfectly on time.,1,1,0.9989,1
+What a brilliant performance by the entire cast!,1,1,0.9988,1
+"I cannot recommend this book enough, it is truly inspiring.",1,1,0.9989,1
+The hotel staff were incredibly friendly and helpful.,1,1,0.9989,1
+"Absolutely loved the food here, every dish was delicious.",1,1,0.9989,1
+"This app has completely changed how I manage my work, fantastic!",1,1,0.9989,1
+"The concert was breathtaking, I will remember it forever.",1,1,0.9989,1
+"Great customer support, they resolved my issue within minutes.",1,1,0.9989,1
+The graphics in this game are stunning and gameplay is smooth.,1,1,0.9989,1
+"Such a heartwarming story, I cried happy tears at the end.",1,1,0.9989,1
+The packaging was beautiful and the gift arrived in perfect condition.,1,1,0.9989,1
+"Best vacation ever, the views were absolutely spectacular.",1,1,0.9989,1
+"I am extremely pleased with my purchase, worth every penny.",1,1,0.9989,1
+"The professor explained everything so clearly, the best class.",1,1,0.9989,1
+"Superb writing style, could not put the novel down.",1,1,0.9989,1
+The team went above and beyond to make our event special.,1,1,0.9989,1
+"Outstanding value for money, highly satisfied customer here.",1,1,0.9989,1
+"The new update is excellent, so many useful improvements.",1,1,0.9989,1
+"Wonderful atmosphere, perfect for a romantic dinner.",1,1,0.9989,1
+The camera quality on this phone is simply amazing.,1,1,0.9989,1
+Loved the ending! Such a satisfying conclusion to the series.,1,1,0.9989,1
+Delivery was fast and the product exceeded expectations.,1,1,0.9989,1
+"This was the worst experience of my life, never again.",0,0,0.9995,1
+"The food was cold, tasteless, and the service was rude.",0,0,0.9995,1
+"Completely disappointed by the product quality, it broke in a day.",0,0,0.9995,1
+"The movie was boring and predictable, total waste of time.",0,0,0.9995,1
+"I regret buying this, the description was completely misleading.",0,0,0.9995,1
+"Terrible customer service, they ignored my complaints entirely.",0,0,0.9995,1
+The hotel room was dirty and smelled terrible.,0,0,0.9995,1
+"Do not buy this, it stopped working after just two uses.",0,0,0.9995,1
+"Awful experience, waited two hours for a table and the food was bad.",0,0,0.9995,1
+The app crashes constantly and drains my battery completely.,0,0,0.9995,1
+"Very disappointed, the item arrived damaged and packaging was torn.",0,0,0.9995,1
+The concert was poorly organised and the sound quality was awful.,0,0,0.9995,1
+"Rude staff and overcrowded, definitely not worth the price.",0,0,0.9995,1
+"The worst book I have ever read, completely nonsensical plot.",0,0,0.9995,1
+Lost my luggage and the airline refused to help or compensate.,0,0,0.9995,1
+The class was disorganised and the teacher was hard to understand.,0,0,0.9995,1
+"Nothing like the photos, extremely misleading advertisement.",0,0,0.9995,1
+"Noisy neighbours, broken air conditioning, never staying here again.",0,0,0.9995,1
+"The build quality is terrible, cheap plastic that breaks easily.",0,0,0.9995,1
+Customer support was unhelpful and kept me on hold for 45 minutes.,0,0,0.9995,1
+"Not recommended at all, very bad value for the price paid.",0,0,0.9995,1
+The graphics glitch constantly and the game freezes every few minutes.,0,0,0.9995,1
+"The ending ruined the whole story, so unsatisfying.",0,0,0.9995,1
+"Delivery took three weeks, item was wrong, and no apology given.",0,0,0.9995,1
+Absolutely awful. Would give zero stars if I could.,0,0,0.9995,1
